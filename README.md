@@ -14,3 +14,8 @@ Demonstration for
 [error] Total time: 1 s, completed Aug 23, 2015 5:05:01 AM
 ```
 
+License
+-------
+
+MIT License
+
